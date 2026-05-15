@@ -58,7 +58,7 @@ This program collects multiple survey responses from users and performs basic da
 
 ---
 
-## 📂 CSV Output
+## CSV Output
 
 The program generates a file called:
 
@@ -70,7 +70,7 @@ Containing structured survey data in tabular format.
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 * Add charts and visualisations
 * Group analysis by age range
