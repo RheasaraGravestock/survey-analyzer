@@ -80,6 +80,6 @@ Containing structured survey data in tabular format.
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 This project was built as part of my Python learning journey to develop skills in data handling, analysis, and structured programming.
